@@ -1,0 +1,13 @@
+bin/
+include/
+lib/
+opencv-4.4.0/
+opencv_contrib-4.4.0/
+share/licenses/opencv4/jasper-LICENSE
+share/licenses/opencv4/jasper-README
+share/licenses/opencv4/jasper-copyright
+share/licenses/opencv4/libjpeg-turbo-LICENSE.md
+share/licenses/opencv4/libjpeg-turbo-README.ijg
+share/licenses/opencv4/libjpeg-turbo-README.md
+share/licenses/opencv4/libtiff-COPYRIGHT
+
