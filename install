@@ -8,7 +8,7 @@ sudo apt-get install -y python2.7-dev python3.6-dev python-dev python-numpy pyth
 sudo apt-get install -y libtbb2 libtbb-dev libjpeg-dev libpng-dev libtiff-dev libjasper-dev libdc1394-22-dev
 sudo apt-get install -y libv4l-dev v4l-utils qv4l2 v4l2ucp
 sudo apt-get install -y curl
-
+sudo apt-get update
 
 unzip opencv-4.4.0.zip 
 unzip opencv_contrib-4.4.0.zip 
